@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+
+body{
+	margin: 100px;
+	padding: 50px;
+	font-family: montserrat;
+	background: linear-gradient(120deg,#2980b9,#8e44ad);
+	height: 100vh;
+	overflow: hidden;
+}
+
+.slog{
+	positon: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(30%,30%);
+	width: 400px;
+	background: white;
+	border-radius: 10px;
+}
